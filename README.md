@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on CEU
+- 🔭 I’m currently working on my house
 - 🌱 I’m currently learning React
 - 👯 I’m looking to collaborate on projects
 - 🤔 I’m looking for help with Next.js
